@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+#heading{
+    font-family: 'Chakra Petch', sans-serif;
+    color:rgb(0, 204, 255);
+    background-color: rgb(0, 139, 130);
+    width: 90%;
+    border-radius: 20px;
+}
+.play{
+    background-color: rgb(255, 171, 195);
+    color: rgb(255, 0, 111);
+    font-family: 'Titan One', cursive;
+    width: 40%px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 30px;
+}
+#no{
+    color:rgb(0, 8, 255);
+}
+canvas{
+    border: 5px dotted rgb(111, 0, 255);
+    border-radius: 20px;
+    margin-top: 300px;
+    background-color: blanchedalmond;
+}
